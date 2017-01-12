@@ -9,6 +9,7 @@
   "scripts": {
     "lerna": "lerna",
     "postinstall": "lerna bootstrap",
+    "lerna-bootstrap" : "lerna bootstrap",
     "lerna-init": "lerna init"
   },
   "devDependencies": {

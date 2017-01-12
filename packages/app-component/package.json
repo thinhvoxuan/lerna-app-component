@@ -2,5 +2,11 @@
   "name": "@thinhvoxuan/lerna-app-component",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js" 
+  },
+  "dependencies": {
+    "@thinhvoxuan/lerna-core-component": "1.0.0"
+  }
 }
