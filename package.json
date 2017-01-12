@@ -1,0 +1,19 @@
+{
+  "name": "lerna-app-component",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "url": "git@github.com:voxuanthinh/lerna-app-component.git",
+    "type": "git"
+  },
+  "scripts": {
+    "lerna": "lerna",
+    "postinstall": "lerna bootstrap",
+    "lerna-init": "lerna init"
+  },
+  "devDependencies": {
+    "lerna": "2.0.0-beta.30"
+  },
+  "author": "thinhvoxuan <thinhvoxuan@gmail.com>",
+  "license": "MIT"
+}
