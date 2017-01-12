@@ -1,3 +1,0 @@
-[submodule "packages/core-component"]
-	path = packages/core-component
-	url = git@github.com:voxuanthinh/lerna-core-component.git
